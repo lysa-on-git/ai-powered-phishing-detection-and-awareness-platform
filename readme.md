@@ -56,8 +56,8 @@ phishing_webapp/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/lysa-on-git/phishing_detector_2.git
-cd phishing_detector_2
+git clone https://github.com/lysa-on-git/ai-powered-phishing-detection.git
+cd ai-powered-phishing-detection
 ```
 
 ### 2. Install Python Dependencies
